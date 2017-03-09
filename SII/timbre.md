@@ -39,5 +39,5 @@ ePD14WKozvBZfD+P7T89aYsgqruDBUUBzSvzhWeyMMvCjFf6eH4qfg==</FRMT>
 </TED>
 ```
 
- # <RE>
+# RE
  Rut del partner (Cliente) al cual le estamos facturando 
