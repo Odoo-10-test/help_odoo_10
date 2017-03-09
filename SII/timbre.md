@@ -43,16 +43,31 @@ ePD14WKozvBZfD+P7T89aYsgqruDBUUBzSvzhWeyMMvCjFf6eH4qfg==</FRMT>
  Rut del partner (Cliente) al cual le estamos facturando
 # TD
 Tipo de documento en este caso es una factura con IVA 33
+# F
+Folio vigente sacado del CAF
 # FE
 Fecha de emisión de la factura
 # RSR
 Razon social del partner
 # IT1
 Primer Item de la factura
-# DA
 # RE
 RUT de la compañia
 # RS
 Razon social de la compañia
 # TD
 Tipo de documento en este caso es una factura con IVA 33
+# D
+Inicio de rango de folio
+# H 
+Fin del rago de folio en uso
+# FA 
+Fecha de autorizacion del rango de folio
+# RSAPK
+Llave Pública del contribuyente esta dentro del CAF con el M y el E
+# IDK 
+Identificación llave pública del SII va en el folio
+# SHA1withRSA
+Firma electronica algoritmo
+
+
