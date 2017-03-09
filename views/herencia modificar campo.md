@@ -1,5 +1,5 @@
 Permite hacer herencia y modificar un campo
-'''
+```
      <record model="ir.ui.view" id="view_company_inherit_form">
         <field name="name">res.company.form.inherit</field>
         <field name="inherit_id" ref="base.view_company_form"/>
@@ -10,4 +10,4 @@ Permite hacer herencia y modificar un campo
           </field>
         </field>
     </record>
-'''
+```
