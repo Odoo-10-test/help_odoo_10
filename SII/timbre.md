@@ -3,7 +3,7 @@ Campos del Timbre
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TED version="1.0">
   <DD>
-    <RE>76555807-7</RE> <font color="green"> Some green text </font>
+    <RE>76555807-7</RE>
     <TD>33</TD>
     <F>44</F>
     <FE>2017-01-11</FE>
@@ -38,3 +38,5 @@ MA>
 ePD14WKozvBZfD+P7T89aYsgqruDBUUBzSvzhWeyMMvCjFf6eH4qfg==</FRMT>
 </TED>
 ```
+
+1- <font color="green"> <RE> </font> Rut del partner al cual le estamos facturando
