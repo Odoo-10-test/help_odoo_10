@@ -39,5 +39,20 @@ ePD14WKozvBZfD+P7T89aYsgqruDBUUBzSvzhWeyMMvCjFf6eH4qfg==</FRMT>
 </TED>
 ```
 
-# <RE>
- Rut del partner (Cliente) al cual le estamos facturando 
+# RE
+ Rut del partner (Cliente) al cual le estamos facturando
+# TD
+Tipo de documento en este caso es una factura con IVA 33
+# FE
+Fecha de emisión de la factura
+# RSR
+Razon social del partner
+# IT1
+Primer Item de la factura
+# DA
+# RE
+RUT de la compañia
+# RS
+Razon social de la compañia
+# TD
+Tipo de documento en este caso es una factura con IVA 33
