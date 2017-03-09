@@ -3,7 +3,7 @@ Campos del Timbre
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <TED version="1.0">
   <DD>
-    <RE>76555807-7</RE>
+    <RE>76555807-7</RE> <font color="green"> Some green text </font>
     <TD>33</TD>
     <F>44</F>
     <FE>2017-01-11</FE>
