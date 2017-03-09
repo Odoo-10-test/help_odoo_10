@@ -39,4 +39,4 @@ ePD14WKozvBZfD+P7T89aYsgqruDBUUBzSvzhWeyMMvCjFf6eH4qfg==</FRMT>
 </TED>
 ```
 
-1- <font color="green"> <RE> </font> Rut del partner al cual le estamos facturando
+1- <font color="green"> RE </font> Rut del partner al cual le estamos facturando
